@@ -1,3 +1,3 @@
 
 
-var hello_world = "hello world"
+define var hello_world = "hello world"
